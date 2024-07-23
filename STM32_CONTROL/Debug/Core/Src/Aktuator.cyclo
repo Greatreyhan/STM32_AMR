@@ -1,0 +1,3 @@
+../Core/Src/Aktuator.c:9:6:aktuator_down	1
+../Core/Src/Aktuator.c:16:6:aktuator_up	1
+../Core/Src/Aktuator.c:23:6:aktuator_reset	1

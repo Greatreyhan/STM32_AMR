@@ -1,0 +1,4 @@
+../Core/Src/BNO08X.c:12:6:BNO08X_GetData	2
+../Core/Src/BNO08X.c:31:6:BNO08X_Init	1
+../Core/Src/BNO08X.c:37:6:BNO08X_Set_Init_Yaw	1
+../Core/Src/BNO08X.c:41:9:BNO08X_relative_yaw	5
